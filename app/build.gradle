@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace 'cl.fernando.individual2_m6'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "cl.fernando.individual2_m6"
         minSdk 25
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
